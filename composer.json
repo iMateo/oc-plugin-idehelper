@@ -1,8 +1,8 @@
 {
-    "name": "icstudio/oc-idehelper-plugin",
+    "name": "idehelper-plugin",
     "type": "october-plugin",
     "description": "OctoberCMS plugin to make development easier by providing IDE helpers",
-    "homepage": "https://github.com/icstudio-ua/oc-idehelper-plugin",
+    "homepage": "https://github.com/iMateo/oc-plugin-idehelper",
     "keywords": ["october", "octobercms", "laravel", "ide", "helper", "vscode", "phpstorm", "php"],
     "license": "MIT",
     "authors": [
