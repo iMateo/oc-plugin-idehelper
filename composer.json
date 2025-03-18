@@ -1,0 +1,28 @@
+{
+    "name": "icstudio/oc-idehelper-plugin",
+    "type": "october-plugin",
+    "description": "OctoberCMS plugin to make development easier by providing IDE helpers",
+    "homepage": "https://github.com/icstudio-ua/oc-idehelper-plugin",
+    "keywords": ["october", "octobercms", "laravel", "ide", "helper", "vscode", "phpstorm", "php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IC Studio",
+            "homepage": "https://icstudio.online"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0",
+        "barryvdh/laravel-ide-helper": "^2.12"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "IHORCHYSHKALA\\IdeHelper\\": ""
+        }
+    },
+    "extra": {
+        "installer-name": "idehelper"
+    }
+}
