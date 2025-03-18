@@ -1,5 +1,5 @@
 {
-    "name": "icstudio/idehelper-plugin",
+    "name": "ihorchyshkala/idehelper-plugin",
     "type": "october-plugin",
     "description": "OctoberCMS plugin to make development easier by providing IDE helpers",
     "homepage": "https://github.com/iMateo/oc-plugin-idehelper",
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "IC Studio",
-            "homepage": "https://icstudio.online"
+            "name": "Ihor Chyshkala",
+            "homepage": "https://chyshkala.com"
         }
     ],
     "require": {
