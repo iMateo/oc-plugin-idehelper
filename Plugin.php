@@ -1,6 +1,6 @@
 <?php
 
-namespace Icstudio\IdeHelper;
+namespace IHORCHYSHKALA\IdeHelper;
 
 use App;
 use Config;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Icstudio\IdeHelper\Updates;
+namespace IHORCHYSHKALA\IdeHelper\Updates;
 
 use Artisan;
 use Exception;
