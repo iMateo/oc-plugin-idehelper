@@ -128,6 +128,7 @@ return [
     */
 
     'model_locations' => [
+        base_path() . '/app/models/',
         base_path() . '/modules/*/models/',
         base_path() . '/plugins/*/*/models/'
     ],
