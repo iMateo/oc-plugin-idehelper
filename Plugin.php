@@ -23,13 +23,13 @@ class Plugin extends PluginBase
             'description' => 'Make development easier with IDE helpers!',
             'author'      => 'IC Studio',
             'icon'        => 'icon-code',
-            'homepage'    => 'https://github.com/icstudio-ua/oc-idehelper-plugin',
+            'homepage'    => 'https://github.com/iMateo/oc-plugin-idehelper',
         ];
     }
 
     public function boot()
     {
-        Config::set('ide-helper', Config::get('icstudio.idehelper::config'));
+        Config::set('ide-helper', Config::get('ihorchyshkala.idehelper::config'));
         App::register('\Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider');
     }
 }
