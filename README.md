@@ -1,10 +1,10 @@
 # IDE Helpers
 
-This plugin adds [icstudio/ide-helpers](https://github.com/icstudio-ua/oc-idehelper-plugin) package to October 2.x and 3.x for better IDE support.
+This plugin adds [ihorchyshkala/idehelper](https://github.com/iMateo/oc-plugin-idehelper) package to October 2.x and 3.x for better IDE support.
 
-## Installation
+## Manual Installation
 
-* `git clone` into */plugins/icstudio/idehelper*
+* `git clone` into */plugins/ihorchyshkala/idehelper*
 * `composer install`
 * `php artisan ide-helper:generate`
 
