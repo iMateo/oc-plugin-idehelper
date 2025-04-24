@@ -160,6 +160,7 @@ return [
 
     'model_hooks' => [
         // App\Support\IdeHelper\MyModelHook::class
+        \IHORCHYSHKALA\IdeHelper\Classes\OctoberRelationsHook::class,
     ],
 
     /*
