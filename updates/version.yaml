@@ -1,3 +1,6 @@
 1.0.0:
     - First version of IdeHelper
     - initial_gen.php
+1.0.5:
+    - Added OctoberCMS relation hook
+    - Minor fixes
