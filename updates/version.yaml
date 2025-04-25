@@ -4,3 +4,7 @@
 1.0.5:
     - Added OctoberCMS relation hook
     - Minor fixes
+1.0.6:
+    - Laravel 9 support recovered
+    - barryvdh/laravel-ide-helper 2.15.1
+    - The plugin version will be upgraded after the release of OctoberCMS v.4 to support Laravel 12
