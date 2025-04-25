@@ -13,7 +13,7 @@
     ],
     "require": {
         "composer/installers": "~1.0",
-        "barryvdh/laravel-ide-helper": "^3.5"
+        "barryvdh/laravel-ide-helper": "2.15.1"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
