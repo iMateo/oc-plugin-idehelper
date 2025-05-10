@@ -29,7 +29,7 @@ class Plugin extends PluginBase
 
     public function boot()
     {
-        Config::set('ide-helper', Config::get('ihorchyshkala.idehelper::config'));
+        Config::set('ide-helper', Config::get('ihorchyshkala.idehelper::config', []));
         App::register('\Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider');
     }
 }
